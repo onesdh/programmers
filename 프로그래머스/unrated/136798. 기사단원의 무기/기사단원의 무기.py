@@ -7,6 +7,7 @@ def sol(num) :
             cnt +=2
     return cnt
 
+
 def solution(number, limit, power):
     answer = 0
 
